@@ -1,0 +1,9 @@
+Policy,Hosts,VMs,Total Migrations,Total Migration Time (ms),Total Elapsed Time (ms),Average Elapsed Time (ms)
+ff,2,4,4,96.0000,0.0906,0.0226
+bf,2,4,4,96.0000,0.3358,0.0839
+wf,2,4,4,96.0000,0.3919,0.0980
+pbfd,2,4,4,96.0000,0.1794,0.0449
+rand,2,4,2,96.0000,0.0574,0.0226
+rr,2,4,4,96.0000,0.1565,0.0391
+brute,2,4,4,96.0000,0.0880,0.0220
+
